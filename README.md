@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinav_dw" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_dw?logo=twitter&style=for-the-badge" alt="abhinav_dw" /></a> </p>
 
-- 🔭 I’m currently working on [scriptogen_web](https://github.com/1abhinavdwivedi/scriptogen_web)
-
-- 🌱 I’m currently learning **ML, Cyber security, React, Javascript**
+- 🌱 I’m currently learning **ML, Cyber security, Swift development, Javascript**
 
 - 💬 Ask me about **Machine learning, research paper writing**
 
