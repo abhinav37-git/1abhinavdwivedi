@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack developer, with fundamental knowledge of software design & development. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1abhinavdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="1abhinavdwivedi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1abhinavdwivedi" alt="1abhinavdwivedi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1abhinavdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="1abhinavdwivedi" /> </p
 
 <p align="left"> <a href="https://twitter.com/abhinav_dw" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_dw?logo=twitter&style=for-the-badge" alt="abhinav_dw" /></a> </p>
 
