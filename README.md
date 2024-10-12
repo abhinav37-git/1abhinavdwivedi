@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning Swift, AWS
 
-- 💬 Ask me about **Machine learning, research paper writing**
-
 - 📫 How to reach me **abhinavd011@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
