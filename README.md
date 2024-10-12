@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinav_dw" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_dw?logo=twitter&style=for-the-badge" alt="abhinav_dw" /></a> </p>
 
-- 🌱 I’m currently learning **ML, Cyber security, Swift development, Javascript**
+- 🌱 I’m currently learning Swift, AWS
 
 - 💬 Ask me about **Machine learning, research paper writing**
 
