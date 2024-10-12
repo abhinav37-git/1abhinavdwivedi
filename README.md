@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A passionate full stack developer, with fundamental knowledge of software design & development. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
-</h3>
+# Hi, I'm Abhinav 👋🔭
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1abhinavdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="1abhinavdwivedi" /> </p
+<img src="https://github.com/abhinav37-git/assets/blob/d1464447dcbd6181b14b0264f4ffee2fa3ab0326/Cover.png" alt="Cover picture - Abhinav Dwivedi_ Computer Programmer ">
+I’m a software engineer passionate about development, creating impactful technology, and building communities. I enjoy working with technologies like Java, Python, SwiftUI, focusing on IoT, AI, and web development. Through my work, I’ve led innovative projects like smart IoT lab automation and smart attendance systems, which have been recognized in University competitions. Additionally, I gained experience in blockchain development with Ethereum and Polygon. I have also published research article on AI’s impact on jobs and the future of cybersecurity in the quantum era. My technical toolkit includes Databases, iOS Development, Virtualisation, Cloud, Linux and CI/CD.
 
-<p align="left"> <a href="https://twitter.com/abhinav_dw" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_dw?logo=twitter&style=for-the-badge" alt="abhinav_dw" /></a> </p>
+## My technical toolkit includes:
 
-- 🌱 I’m currently learning Swift, AWS
+	•	Languages: Python, JavaScript, Swift, C++
+	•	Frameworks & Tools: Django, Node.js, ReactJS, TensorFlow, GraphDB, Docker, Kubernetes, CI/CD
+	•	Interests: Blockchain (Ethereum & Polygon), Machine Learning, Smart Home Automation
 
-- 📫 How to reach me **abhinavd011@outlook.com**
+💼 Professional Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhinav_dw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav_dw" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhinav-dwivedi-a52788230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-dwivedi-a52788230/" height="30" width="40" /></a>
-<a href="https://instagram.com/1abhinavdwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1abhinavdwivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xwick" height="30" width="40" /></a>
-</p>
+	•	Samsung PRISM (Virtual Internship): Worked on smart home user activity inference using smart home data, GraphDB, and a knowledge graph. Developed recommendation and prediction systems with machine learning.
+	•	Metacrafters (Training): Gained hands-on experience with blockchain development, focusing on Ethereum and Polygon, including token transfer and static web page design.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+🔧 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav37-git&show_icons=true&locale=en&layout=compact" alt="abhinav37-git" /></p>
+	•	Programming: Python, JavaScript, Swift, Embedded C++
+	•	Technologies: GraphDB, TensorFlow, Docker, AWS, Linux, Cross Compilation, CI/CD, Cloud Computing
+	•	Soft Skills: Team Leadership, Decision Making, Public Speaking
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav37-git&show_icons=true&locale=en" alt="abhinav37-git" /></p>
+🎯 Hobbies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav37-git&" alt="abhinav37-git" /></p>
+When I’m not coding, you’ll find me:
+
+	•	Traveling to new places 🌍
+	•	Watching sci-fi movies and series 🚀
+
+## Find me on Social Media:
+
+- Sharing career and academic achievements on <a href="https://www.linkedin.com/in/abhinav-dwivedi-a52788230/">LinkedIN
+- Keeping up with the world on <a href="https://www.x.com/abhinav_sup"> Twitter / X
