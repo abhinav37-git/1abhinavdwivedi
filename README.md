@@ -30,4 +30,4 @@ When I’m not coding, you’ll find me:
 ## Find me on Social Media:
 
 - Sharing career and academic achievements on <a href="https://www.linkedin.com/in/abhinav-dwivedi-a52788230/">LinkedIN
-- Keeping up with the world on <a href="https://www.x.com/abhinav_sup"> Twitter / X
+- Contact to me <a href="abhinavd372@gmail.com"> Gmail
