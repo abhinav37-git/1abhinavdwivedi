@@ -6,7 +6,7 @@ I’m a software engineer passionate about development, creating impactful techn
 ## My technical toolkit includes:
 
 	•	Languages: Python, JavaScript, Swift, C++
-	•	Frameworks & Tools: Django, Node.js, ReactJS, TensorFlow, GraphDB, Docker, Kubernetes, CI/CD
+	•	Frameworks & Tools: Django, Node.js, TensorFlow, GraphDB, Docker, Kubernetes, CI/CD
 	•	Interests: Blockchain (Ethereum & Polygon), Machine Learning, Smart Home Automation
 
 💼 Professional Experience
